@@ -1,0 +1,107 @@
+# FertilityList
+
+> Compare US fertility clinics using official CDC IVF success-rate data. Independent, transparent methodology, no paid rankings. No clinic pays to be listed or ranked. All clinic figures come from the CDC National ART Surveillance System (reporting year 2022, retrieved 2026-11-13).
+
+Key facts:
+- 452 US fertility clinics reported IVF outcomes to the CDC for 2022; 390 have enough data for a FertilityList Score (1–5).
+- The FertilityList Score weights age-adjusted live births per intended egg retrieval (50%), cycle volume (20%), reporting consistency (15%) and SART membership plus lab accreditation (15%). Full formula: https://fertilitylist.com/methodology/
+- US live births per intended egg retrieval, own eggs, 2022 (CDC):
+- Under 35: 49.7%
+- 35–37: 36.3%
+- 38–40: 23.1%
+- Over 40: 7.7%
+
+When citing, please reference the specific page URL and "FertilityList, based on CDC data (2022)". Not medical advice.
+
+## Core pages
+- [US fertility clinics by state](https://fertilitylist.com/clinics/us/): state table, national benchmarks, top clinics
+- [Methodology & score](https://fertilitylist.com/methodology/): data sources, formula, limitations
+- [Open data (CSV, CC BY 4.0)](https://fertilitylist.com/data/)
+- [Editorial policy](https://fertilitylist.com/editorial-policy/)
+
+## Guides
+- [Causes of Infertility in Women and Men: What the Data Shows](https://fertilitylist.com/guides/causes-of-infertility/): Common causes of female and male infertility according to the NIH and MedlinePlus, plus how often each diagnosis appears in US IVF cycles reported to the CDC.
+- [Diminished Ovarian Reserve: What It Means for IVF](https://fertilitylist.com/guides/diminished-ovarian-reserve/): What diminished ovarian reserve means, how AMH and FSH tests are used, how common it is among US IVF cycles, and what CDC data shows about age and donor eggs.
+- [Donor Egg IVF Success Rates: Fresh vs. Frozen Donor Eggs](https://fertilitylist.com/guides/donor-eggs-success-rates/): CDC data on donor egg and donated embryo IVF outcomes in the US: live-birth rates per transfer by type, how many clinics offer donor eggs, and how to compare them.
+- [Egg Freezing in the US: Which Clinics Offer It and How Common It Is](https://fertilitylist.com/guides/egg-freezing-clinics-us/): How many US fertility clinics offer egg freezing, how common fertility-preservation cycles are by age and state, and what to ask a clinic, based on CDC data.
+- [Embryo Freezing vs. Egg Freezing: Differences, Data and Laws](https://fertilitylist.com/guides/embryo-freezing-vs-egg-freezing/): How egg and embryo freezing differ, how common fertility preservation is in US IVF data by age, how many clinics offer each, and how Spain and Greece regulate it.
+- [Fertility Testing: What Tests Are Used and What They Look For](https://fertilitylist.com/guides/fertility-testing-what-to-expect/): The fertility tests commonly used for women and men, according to MedlinePlus and the NIH, what each one checks, and how test results relate to IVF diagnoses in CDC data.
+- [Frozen vs. Fresh Embryo Transfer: How US Clinics Practice Today](https://fertilitylist.com/guides/frozen-vs-fresh-embryo-transfer/): How often US fertility clinics use frozen vs. fresh embryo transfers, how that share changed over three years, and how outcomes compare in CDC data.
+- [How to Read IVF Success Rates (Per Retrieval vs. Per Transfer)](https://fertilitylist.com/guides/how-to-read-ivf-success-rates/): Why the same clinic can show a 30% or a 55% IVF success rate, and which CDC measure to use when comparing fertility clinics. Built on official CDC data.
+- [IUI vs. IVF: How the Two Fertility Treatments Differ](https://fertilitylist.com/guides/iui-vs-ivf/): How IUI and IVF work, who each is commonly used for, what NIH sources say about success and multiple births, and why CDC clinic data covers only IVF.
+- [IVF Abroad vs. in the US: How Laws and Data Differ by Country](https://fertilitylist.com/guides/ivf-abroad-vs-us/): How IVF rules on access, donor anonymity, age limits and surrogacy compare across Spain, Portugal, Czech Republic, Greece, Argentina, Mexico, Colombia and the US.
+- [IVF After 40: What the CDC Data Shows](https://fertilitylist.com/guides/ivf-after-40/): Live-birth rates for IVF after 40 with own eggs and donor eggs, how many cycles patients need, and how clinics compare, from the CDC's latest national data.
+- [IVF Success Rates by Age: What the Latest CDC Data Shows](https://fertilitylist.com/guides/ivf-success-rates-by-age/): National and clinic-level IVF live-birth rates by age group from the CDC's latest data, with three-year trends and how much clinics vary within each age band.
+- [IVF Success Rates by State: CDC Data Compared](https://fertilitylist.com/guides/ivf-success-rates-by-state/): Median IVF success rates by state for patients under 35 and over 40, plus where most US IVF cycles happen, from CDC clinic data, with the limits of comparing states.
+- [The Largest IVF Clinics in the US by Cycle Volume](https://fertilitylist.com/guides/largest-ivf-clinics-us/): Which US fertility clinics perform the most IVF cycles, how concentrated treatment is, and what clinic size does and does not tell you, from CDC clinic data.
+- [Male Infertility and ICSI: How Often US Clinics Use It](https://fertilitylist.com/guides/male-infertility-icsi/): Common causes of male infertility, what intracytoplasmic sperm injection (ICSI) is, and how often US IVF transfers involve ICSI by age, clinic and state, from CDC data.
+- [Preimplantation Genetic Testing (PGT): How Often US Clinics Use It](https://fertilitylist.com/guides/pgt-testing-how-common/): How often US fertility clinics use preimplantation genetic testing (PGT) on embryos, by age and state, how fast use has grown, and questions to ask, from CDC data.
+- [Questions to Ask a Fertility Clinic (and Red Flags to Watch For)](https://fertilitylist.com/guides/questions-to-ask-a-fertility-clinic/): A practical list of questions to ask a fertility clinic about success rates, lab standards, costs and care, plus warning signs, grounded in CDC clinic data.
+- [SART Membership and Lab Accreditation: What They Mean](https://fertilitylist.com/guides/sart-membership-lab-accreditation/): What SART membership and verified embryology lab accreditation mean for a US fertility clinic, how common they are by state, and how to check a clinic yourself.
+- [Fertility Treatment for Single Parents and LGBTQ+ Families](https://fertilitylist.com/guides/single-women-lgbtq-family-building/): Options single people and LGBTQ+ couples commonly use to build a family, and which US clinics report donor eggs, donated embryos and gestational carrier services.
+- [What Is Infertility? Definitions, How Common It Is, and When to Seek Help](https://fertilitylist.com/guides/what-is-infertility/): How WHO and the NIH define infertility, how common it is worldwide, how often male and female factors are involved, and why people in the US use IVF, from CDC data.
+
+## Fertility destinations (laws, donor rules, registry data)
+- [Fertility treatment in Spain](https://fertilitylist.com/destinations/spain/): Spain regulates assisted reproduction through a national law (Law 14/2006).
+- [Fertility treatment in Czech Republic](https://fertilitylist.com/destinations/czech-republic/): The Czech Republic regulates assisted reproduction in its Specific Health Services Act (No.
+- [Fertility treatment in Greece](https://fertilitylist.com/destinations/greece/): Greece regulates medically assisted reproduction under Law 3305/2005, substantially amended by Law 4958/2022.
+- [Fertility treatment in Portugal](https://fertilitylist.com/destinations/portugal/): Portugal regulates medically assisted procreation under Law 32/2006, amended several times up to 2021.
+- [Fertility treatment in Mexico](https://fertilitylist.com/destinations/mexico/): Mexico had 47 centers reporting to the Latin American Registry in 2021, the most after Brazil, with 21,213 initiated cycles, close to Argentina for second place by volume.
+- [Fertility treatment in Colombia](https://fertilitylist.com/destinations/colombia/): Colombia had 14 centers reporting to the Latin American Registry in 2021, with about 3,500 initiated cycles.
+- [Fertility treatment in Argentina](https://fertilitylist.com/destinations/argentina/): Argentina has a national law on medically assisted reproduction (Law 26.862 of 2013) that gives every adult access to treatment with informed consent and requires public and private health plans to cover it, without exclusions based on sexual orientation or marital status.
+
+## States
+- [Alabama](https://fertilitylist.com/clinics/us/alabama/): 5 reporting clinics
+- [Alaska](https://fertilitylist.com/clinics/us/alaska/): 1 reporting clinic
+- [Arizona](https://fertilitylist.com/clinics/us/arizona/): 10 reporting clinics
+- [Arkansas](https://fertilitylist.com/clinics/us/arkansas/): 1 reporting clinic
+- [California](https://fertilitylist.com/clinics/us/california/): 85 reporting clinics
+- [Colorado](https://fertilitylist.com/clinics/us/colorado/): 8 reporting clinics
+- [Connecticut](https://fertilitylist.com/clinics/us/connecticut/): 7 reporting clinics
+- [Delaware](https://fertilitylist.com/clinics/us/delaware/): 2 reporting clinics
+- [District of Columbia](https://fertilitylist.com/clinics/us/district-of-columbia/): 2 reporting clinics
+- [Florida](https://fertilitylist.com/clinics/us/florida/): 26 reporting clinics
+- [Georgia](https://fertilitylist.com/clinics/us/georgia/): 10 reporting clinics
+- [Hawaii](https://fertilitylist.com/clinics/us/hawaii/): 5 reporting clinics
+- [Idaho](https://fertilitylist.com/clinics/us/idaho/): 1 reporting clinic
+- [Illinois](https://fertilitylist.com/clinics/us/illinois/): 21 reporting clinics
+- [Indiana](https://fertilitylist.com/clinics/us/indiana/): 7 reporting clinics
+- [Iowa](https://fertilitylist.com/clinics/us/iowa/): 2 reporting clinics
+- [Kansas](https://fertilitylist.com/clinics/us/kansas/): 5 reporting clinics
+- [Kentucky](https://fertilitylist.com/clinics/us/kentucky/): 4 reporting clinics
+- [Louisiana](https://fertilitylist.com/clinics/us/louisiana/): 4 reporting clinics
+- [Maine](https://fertilitylist.com/clinics/us/maine/): 1 reporting clinic
+- [Maryland](https://fertilitylist.com/clinics/us/maryland/): 5 reporting clinics
+- [Massachusetts](https://fertilitylist.com/clinics/us/massachusetts/): 8 reporting clinics
+- [Michigan](https://fertilitylist.com/clinics/us/michigan/): 8 reporting clinics
+- [Minnesota](https://fertilitylist.com/clinics/us/minnesota/): 5 reporting clinics
+- [Mississippi](https://fertilitylist.com/clinics/us/mississippi/): 3 reporting clinics
+- [Missouri](https://fertilitylist.com/clinics/us/missouri/): 9 reporting clinics
+- [Montana](https://fertilitylist.com/clinics/us/montana/): 1 reporting clinic
+- [Nebraska](https://fertilitylist.com/clinics/us/nebraska/): 2 reporting clinics
+- [Nevada](https://fertilitylist.com/clinics/us/nevada/): 6 reporting clinics
+- [New Hampshire](https://fertilitylist.com/clinics/us/new-hampshire/): 1 reporting clinic
+- [New Jersey](https://fertilitylist.com/clinics/us/new-jersey/): 14 reporting clinics
+- [New Mexico](https://fertilitylist.com/clinics/us/new-mexico/): 2 reporting clinics
+- [New York](https://fertilitylist.com/clinics/us/new-york/): 44 reporting clinics
+- [North Carolina](https://fertilitylist.com/clinics/us/north-carolina/): 11 reporting clinics
+- [North Dakota](https://fertilitylist.com/clinics/us/north-dakota/): 1 reporting clinic
+- [Ohio](https://fertilitylist.com/clinics/us/ohio/): 10 reporting clinics
+- [Oklahoma](https://fertilitylist.com/clinics/us/oklahoma/): 3 reporting clinics
+- [Oregon](https://fertilitylist.com/clinics/us/oregon/): 4 reporting clinics
+- [Pennsylvania](https://fertilitylist.com/clinics/us/pennsylvania/): 11 reporting clinics
+- [Puerto Rico](https://fertilitylist.com/clinics/us/puerto-rico/): 3 reporting clinics
+- [Rhode Island](https://fertilitylist.com/clinics/us/rhode-island/): 1 reporting clinic
+- [South Carolina](https://fertilitylist.com/clinics/us/south-carolina/): 4 reporting clinics
+- [South Dakota](https://fertilitylist.com/clinics/us/south-dakota/): 1 reporting clinic
+- [Tennessee](https://fertilitylist.com/clinics/us/tennessee/): 7 reporting clinics
+- [Texas](https://fertilitylist.com/clinics/us/texas/): 44 reporting clinics
+- [Utah](https://fertilitylist.com/clinics/us/utah/): 4 reporting clinics
+- [Vermont](https://fertilitylist.com/clinics/us/vermont/): 2 reporting clinics
+- [Virginia](https://fertilitylist.com/clinics/us/virginia/): 11 reporting clinics
+- [Washington](https://fertilitylist.com/clinics/us/washington/): 12 reporting clinics
+- [West Virginia](https://fertilitylist.com/clinics/us/west-virginia/): 2 reporting clinics
+- [Wisconsin](https://fertilitylist.com/clinics/us/wisconsin/): 6 reporting clinics
+
+## Optional
+- [Sitemap](https://fertilitylist.com/sitemap-index.xml)

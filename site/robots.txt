@@ -1,0 +1,24 @@
+# FertilityList — AI assistants and search engines are welcome.
+User-agent: *
+Allow: /
+Disallow: /search-index.json
+
+# Explicitly welcome AI crawlers (GEO)
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://fertilitylist.com/sitemap-index.xml
